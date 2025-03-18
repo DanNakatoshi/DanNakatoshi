@@ -67,10 +67,3 @@
 ### 🔹 [オープンソース貢献](https://github.com/DanNakatoshi)  
 - 👨‍💻 **フロントエンドフレームワークやDevOpsツール** に貢献  
 
----
-
-## 📊 GitHub統計  
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanNakatoshi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanNakatoshi&layout=compact&theme=radical)  
-
----
